@@ -1,0 +1,14 @@
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\bin\Debug\net10.0\Final Kütüphane Projesi.exe
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\bin\Debug\net10.0\Final Kütüphane Projesi.deps.json
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\bin\Debug\net10.0\Final Kütüphane Projesi.runtimeconfig.json
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\bin\Debug\net10.0\Final Kütüphane Projesi.dll
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\bin\Debug\net10.0\Final Kütüphane Projesi.pdb
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.AssemblyInfoInputs.cache
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.AssemblyInfo.cs
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.dll
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\refint\Final Kütüphane Projesi.dll
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.pdb
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\Final Kütüphane Projesi.genruntimeconfig.cache
+C:\Users\omera\source\repos\Final Kütüphane Projesi\Final Kütüphane Projesi\obj\Debug\net10.0\ref\Final Kütüphane Projesi.dll

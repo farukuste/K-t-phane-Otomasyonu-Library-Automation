@@ -1,0 +1,4 @@
+BK-101|Suç ve Ceza|Fyodor Dostoyevski|Dünya Klasikleri|430|A-12|3|0|0
+BK-102|Nutuk|Mustafa Kemal Atatürk|Tarih & Siyaset|540|B-03|5|0|0
+BK-103|Simyacı|Paulo Coelho|Felsefe & Roman|184|C-09|0|0|0
+BK-104|1984|George Orwell|Bilim Kurgu & Distopya|350|D-05|2|0|0

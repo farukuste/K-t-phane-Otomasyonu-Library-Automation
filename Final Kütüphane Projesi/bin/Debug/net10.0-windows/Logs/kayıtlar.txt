@@ -1,0 +1,12 @@
+[20.05.2026 00:29] Yeni Yönetici Kaydı: Yönetici Hesap (admin) oluşturuldu. Yetki: Süper Yönetici
+[20.05.2026 00:29] Yeni Öğrenci Kaydı: Ahmet Yılmaz (ahmet) sisteme kaydoldu.
+[20.05.2026 00:29] Yeni Öğrenci Kaydı: Ayşe Demir (ayse) sisteme kaydoldu.
+[20.05.2026 00:29] Kitap Eklendi: 'Suç ve Ceza' (ID: BK-101, Yazar: Fyodor Dostoyevski, Stok: 3)
+[20.05.2026 00:29] Kitap Eklendi: 'Nutuk' (ID: BK-102, Yazar: Mustafa Kemal Atatürk, Stok: 5)
+[20.05.2026 00:29] Kitap Eklendi: 'Simyacı' (ID: BK-103, Yazar: Paulo Coelho, Stok: 0)
+[20.05.2026 00:29] Kitap Eklendi: '1984' (ID: BK-104, Yazar: George Orwell, Stok: 2)
+[20.05.2026 00:30] Hatalı Giriş Denemesi: 'admin123' adında bir kullanıcı bulunamadı.
+[20.05.2026 00:30] Hatalı Giriş Denemesi: 'admin123admin123' adında bir kullanıcı bulunamadı.
+[20.05.2026 00:30] Hatalı Giriş Denemesi: 'ahmet123' adında bir kullanıcı bulunamadı.
+[20.05.2026 00:30] Hatalı Giriş Denemesi: 'ahmet123admin' adında bir kullanıcı bulunamadı.
+[20.05.2026 00:31] Yönetici Hesap (admin) sisteme giriş yaptı.

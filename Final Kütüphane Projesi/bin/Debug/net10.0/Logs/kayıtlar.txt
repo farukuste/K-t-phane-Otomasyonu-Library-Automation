@@ -1,0 +1,61 @@
+[20.05.2026 00:34] Yeni Yönetici Kaydı: Yönetici Hesap (admin) oluşturuldu. Yetki: Süper Yönetici
+[20.05.2026 00:34] Yeni Öğrenci Kaydı: Ahmet Yılmaz (ahmet) sisteme kaydoldu.
+[20.05.2026 00:34] Yeni Öğrenci Kaydı: Ayşe Demir (ayse) sisteme kaydoldu.
+[20.05.2026 00:34] Kitap Eklendi: 'Suç ve Ceza' (ID: BK-101, Yazar: Fyodor Dostoyevski, Stok: 3)
+[20.05.2026 00:34] Kitap Eklendi: 'Nutuk' (ID: BK-102, Yazar: Mustafa Kemal Atatürk, Stok: 5)
+[20.05.2026 00:34] Kitap Eklendi: 'Simyacı' (ID: BK-103, Yazar: Paulo Coelho, Stok: 0)
+[20.05.2026 00:34] Kitap Eklendi: '1984' (ID: BK-104, Yazar: George Orwell, Stok: 2)
+[20.05.2026 00:37] Yönetici Hesap (admin) sisteme giriş yaptı.
+[20.05.2026 00:39] Kitap Eklendi: 'Sol Ayağım' (ID: BK-161, Yazar: Christy Brown, Stok: 2)
+[20.05.2026 00:40] Yönetici Hesap oturumu kapattı.
+[20.05.2026 00:41] Yeni Öğrenci Kaydı: Ömer Faruk Üste (omer) sisteme kaydoldu.
+[20.05.2026 00:41] Yeni öğrenci kaydı yapıldı: Ömer Faruk Üste (omer)
+[20.05.2026 00:41] Ömer Faruk Üste (omer) sisteme giriş yaptı.
+[20.05.2026 00:45] Ömer Faruk Üste (omer), 'Sol Ayağım' kitabını ödünç aldı. Son teslim tarihi: 03.06.2026
+[20.05.2026 00:46] omer kullanıcısı 'Sol Ayağım' kitabına 5 puan verdi.
+[20.05.2026 00:47] Ömer Faruk Üste oturumu kapattı.
+[20.05.2026 00:48] Yeni Öğrenci Kaydı: Deniz Bahar (deniz) sisteme kaydoldu.
+[20.05.2026 00:48] Yeni öğrenci kaydı yapıldı: Deniz Bahar (deniz)
+[20.05.2026 00:48] Deniz Bahar (deniz) sisteme giriş yaptı.
+[20.05.2026 00:49] Deniz Bahar oturumu kapattı.
+[04.06.2026 22:04] Yeni Öğrenci Kaydı: Hasan Hüseyin Gökçek (hüso) sisteme kaydoldu.
+[04.06.2026 22:04] Yeni öğrenci kaydı yapıldı: Hasan Hüseyin Gökçek (hüso)
+[04.06.2026 22:04] Hasan Hüseyin Gökçek (hüso) sisteme giriş yaptı.
+[04.06.2026 22:05] Hasan Hüseyin Gökçek (hüso), 'Nutuk' kitabını ödünç aldı. Son teslim tarihi: 18.06.2026
+[04.06.2026 22:06] Hasan Hüseyin Gökçek oturumu kapattı.
+[04.06.2026 22:07] Hatalı Giriş Denemesi: admin için yanlış şifre girildi.
+[04.06.2026 22:07] Hatalı Giriş Denemesi: admin için yanlış şifre girildi.
+[04.06.2026 22:09] Ömer Faruk Üste (omer) sisteme giriş yaptı.
+[07.06.2026 15:59] Ömer Faruk Üste (omer) sisteme giriş yaptı.
+[07.06.2026 15:59] Ömer Faruk Üste (omer), toplam ₺20,00 ceza borcunu tamamen ödedi.
+[07.06.2026 16:12] Deniz Bahar (deniz) sisteme giriş yaptı.
+[07.06.2026 16:14] Deniz Bahar oturumu kapattı.
+[07.06.2026 16:14] Yönetici Hesap (admin) sisteme giriş yaptı.
+[07.06.2026 16:15] Kitap Eklendi: 'Boynu Bükük Öldüler' (ID: BK-200, Yazar: Yılmaz, Stok: 2)
+[07.06.2026 16:17] Kitap Güncellendi: 'Boynu Bükük Öldüler' (ID: BK-200, Yeni Stok: 1)
+[07.06.2026 16:17] Kitap Silindi: 'Boynu Bükük Öldüler' (ID: BK-200)
+[07.06.2026 16:19] Yönetici Hesap (admin) sisteme giriş yaptı.
+[07.06.2026 16:19] Kitap Eklendi: 'Boynu Bükük Öldüler' (ID: BK-200, Yazar: Yılmaz, Stok: 1)
+[07.06.2026 16:20] Yönetici Hesap oturumu kapattı.
+[07.06.2026 16:21] Yeni Öğrenci Kaydı: Tughan Yarkın Budak (tughan) sisteme kaydoldu.
+[07.06.2026 16:21] Yeni öğrenci kaydı yapıldı: Tughan Yarkın Budak (tughan)
+[07.06.2026 16:21] Tughan Yarkın Budak (tughan) sisteme giriş yaptı.
+[07.06.2026 16:22] Tughan Yarkın Budak oturumu kapattı.
+[08.06.2026 14:27] Yeni Öğrenci Kaydı: Merve Nilay (merve) sisteme kaydoldu.
+[08.06.2026 14:27] Yeni öğrenci kaydı yapıldı: Merve Nilay (merve)
+[08.06.2026 14:27] Merve Nilay (merve) sisteme giriş yaptı.
+[08.06.2026 14:28] Merve Nilay (merve), 'Sol Ayağım' kitabını ödünç aldı. Son teslim tarihi: 22.06.2026
+[08.06.2026 14:29] Merve Nilay oturumu kapattı.
+[08.06.2026 14:29] Ömer Faruk Üste (omer) sisteme giriş yaptı.
+[08.06.2026 14:29] Ömer Faruk Üste oturumu kapattı.
+[08.06.2026 14:30] Tughan Yarkın Budak (tughan) sisteme giriş yaptı.
+[08.06.2026 14:30] Tughan Yarkın Budak (tughan), 'Sol Ayağım' kitabını rezerve etti.
+[08.06.2026 14:30] tughan kullanıcısı 'Sol Ayağım' kitabına 4 puan verdi.
+[08.06.2026 14:31] Tughan Yarkın Budak oturumu kapattı.
+[08.06.2026 14:31] Yönetici Hesap (admin) sisteme giriş yaptı.
+[08.06.2026 14:32] Kitap Eklendi: 'İşletme Bilimine Giriş' (ID: BK-180, Yazar: Seda Güğerçin, Stok: 1)
+[08.06.2026 14:32] Kitap Güncellendi: 'İşletme Bilimine Giriş' (ID: BK-180, Yeni Stok: 1)
+[08.06.2026 14:34] Yönetici Hesap oturumu kapattı.
+[08.06.2026 14:34] Ömer Faruk Üste (omer) sisteme giriş yaptı.
+[08.06.2026 14:34] Ömer Faruk Üste (omer), toplam ₺25,00 ceza borcunu tamamen ödedi.
+[08.06.2026 14:34] Ömer Faruk Üste oturumu kapattı.
